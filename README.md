@@ -10,13 +10,15 @@
 
 I am a passionate developer who loves bridging the gap between **Low-Level Hardware** and **High-Level AI**. My journey involves digging deep into bits & bytes, optimizing real-time data streams, and building solutions that solve real-world problems.
 
-=------------------------=
+=-------------------------=
+
 ###  Current Featured Project
 ####  **[VAULTSEC-For-hackaton-samsung-KBTG](https://github.com/Burid1234/Project-For-hackaton-samsung-KBTG)**
 
 I am developing this project alongside my supportive girlfriend. an **On-Device AI Architecture** that simulates a smartphone's NPU/DSP chip to detect and intercept Call Center fraud in real-time.
 
-=------------------------=
+=-------------------------=
+
 ###  Technical Skills & Arsenal
 
 **💻 Programming Languages**
@@ -50,10 +52,6 @@ I am developing this project alongside my supportive girlfriend. an **On-Device 
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-
-###  GitHub Stats
-![Bank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burid1234&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burid1234&layout=compact&theme=radical)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Burid1234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
